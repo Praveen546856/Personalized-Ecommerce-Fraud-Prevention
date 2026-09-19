@@ -65,11 +65,11 @@ The dashboard displays:
 - Fraud / Legitimate prediction
 - Fraud probability
 - Legitimate probability
-
-## 📁 Project Structure
 ## Streamlit Dashboard
 
 ![Streamlit Dashboard](screenshots/dashboard.png)
+
+## 📁 Project Structure
 ```text
 Personalized-Ecommerce-Fraud-Prevention/
 │
