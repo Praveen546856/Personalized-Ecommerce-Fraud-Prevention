@@ -67,7 +67,9 @@ The dashboard displays:
 - Legitimate probability
 
 ## 📁 Project Structure
+## Streamlit Dashboard
 
+![Streamlit Dashboard](screenshots/dashboard.png)
 ```text
 Personalized-Ecommerce-Fraud-Prevention/
 │
